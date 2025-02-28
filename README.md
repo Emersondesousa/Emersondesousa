@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! Seja bem-vindo ao meu GitHub!</h2> 
+<h2 align="left">Hi 👋! Seja bem-vindo ao meu GitHub!</h2>
+Sou estudante de programação Full Stack na escola Infinity School, tenho um grande interesse em tecnologia e desenvolvimento. Desde sempre, fui apaixonado por como a tecnologia pode transformar o mundo e, ao longo do meu aprendizado, descobri a imensidão e a beleza da programação. Tenho me dedicado a expandir meus conhecimentos em diversas linguagens, buscando me tornar um profissional completo e qualificado para os desafios da área.
+
+Atualmente, estou me aprofundando nas áreas de front-end e back-end , Python, HTML/CSS ,SQL, JavaScript.
 
 ###
 
