@@ -14,11 +14,12 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdjW_tHFO0-9XsH_ixQ9ccaWRt_Wiywu1OQ&s" alt="Credly Image" style="width: 250px; margin-left: 10px;">
 </div>
 </div>
+<h1>Desenvolvedor FullStack com foco em resultados</h1>
 
 Sou estudante de programação Full Stack na escola Infinity Scholl, tenho grande interesse em tecnologia e desenvolvimento. Desde sempre, fui apaixonado por como a tecnologia pode transformar o mundo e, ao longo do meu aprendizado, descobri a imensidão e a beleza da programação. Tenho me dedicado a expandir meus conhecimentos em diversas linguagens, buscando me tornar um profissional co
 mpleto e qualificado para os desafios da área.
 
-Atualmente, estou me aprofundando nas áreas de front-end e back-end , Python, HTML/CSS ,SQL, JavaScript.
+Atualmente, estou me aprofundando nas áreas de Python, HTML/CSS ,SQL, JavaScript, React e DataScience.
 
 ###
 
