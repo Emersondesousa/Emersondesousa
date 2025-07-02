@@ -11,7 +11,7 @@
   </a>
   <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Gif Image 1">
-  <img src="https://images.sympla.com.br/671972007d045.png" alt="Credly Image" style="width: 250px; margin-left: 10px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjkMctQIGUD-6P6iymkQgB3Z5NGyAkbJTTg&s" alt="Credly Image" style="width: 250px; margin-left: 10px;">
 </div>
 </div>
 
