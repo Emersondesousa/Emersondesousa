@@ -9,6 +9,10 @@
   <a href="https://github.com/Emersondesousa">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Estudante+de+Programação+Full+Stack" alt="Typing SVG" />
   </a>
+  <div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Gif Image 1">
+  <img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" alt="Credly Image" style="width: 250px; margin-left: 10px;">
+</div>
 </div>
 
 Sou estudante de programação Full Stack na escola Infinity Scholl, tenho grande interesse em tecnologia e desenvolvimento. Desde sempre, fui apaixonado por como a tecnologia pode transformar o mundo e, ao longo do meu aprendizado, descobri a imensidão e a beleza da programação. Tenho me dedicado a expandir meus conhecimentos em diversas linguagens, buscando me tornar um profissional co
