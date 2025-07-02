@@ -1,5 +1,18 @@
 <h2 align="left">Hi 👋! Seja bem-vindo ao meu GitHub!</h2>
-Sou estudante de programação Full Stack na escola Infinity Scholl, tenho grande interesse em tecnologia e desenvolvimento. Desde sempre, fui apaixonado por como a tecnologia pode transformar o mundo e, ao longo do meu aprendizado, descobri a imensidão e a beleza da programação. Tenho me dedicado a expandir meus conhecimentos em diversas linguagens, buscando me tornar um profissional completo e qualificado para os desafios da área.
+
+### <div align="left">
+  <a href="https://github.com/Emersondesousa">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Emerson+de+Sousa" alt="Typing SVG" />
+  </a>
+</div>
+<div align="left">
+  <a href="https://github.com/Emersondesousa">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Estudante+de+Programação+Full+Stack" alt="Typing SVG" />
+  </a>
+</div>
+
+Sou estudante de programação Full Stack na escola Infinity Scholl, tenho grande interesse em tecnologia e desenvolvimento. Desde sempre, fui apaixonado por como a tecnologia pode transformar o mundo e, ao longo do meu aprendizado, descobri a imensidão e a beleza da programação. Tenho me dedicado a expandir meus conhecimentos em diversas linguagens, buscando me tornar um profissional co
+mpleto e qualificado para os desafios da área.
 
 Atualmente, estou me aprofundando nas áreas de front-end e back-end , Python, HTML/CSS ,SQL, JavaScript.
 
