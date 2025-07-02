@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Seja bem-vindo ao meu GitHub!</h2>
+<h2 align="left">Olá 👋! Seja bem-vindo ao meu GitHub!</h2>
 
 ### <div align="left">
   <a href="https://github.com/Emersondesousa">
