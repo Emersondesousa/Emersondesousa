@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Seja bem-vindo ao meu GitHub!</h2>
+<h2 align="left">Hello 👋! Welcome to my GitHub!</h2>
 
 ### <div align="left">
   <a href="https://github.com/Emersondesousa">
@@ -14,9 +14,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdjW_tHFO0-9XsH_ixQ9ccaWRt_Wiywu1OQ&s" alt="Credly Image" style="width: 250px; margin-left: 10px;">
 </div>
 </div>
-<h1>Desenvolvedor FullStack com foco em resultados</h1>
+<h1>FullStack Developer focused on results</h1>
 
-Sou estudante de programação Full Stack na escola Infinity Scholl e curso Análise e Desenvolvimento de Sistemas na Universidade Una, sou apaixonado por tecnologia e transformar ideias em soluções reais por meio do código.
+I'm a Full Stack programming student at Infinity School and studying Systems Analysis and Development at Una University. I'm passionate about technology and transforming ideas into real solutions through code.
 
 ###
 
