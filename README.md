@@ -7,7 +7,7 @@
 </div>
 <div align="left">
   <a href="https://github.com/Emersondesousa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Estudante+de+Programação+Full+Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Full+Stack+Programming+Student" alt="Typing SVG" />
   </a>
   <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Gif Image 1">
