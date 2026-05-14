@@ -16,7 +16,7 @@
 </div>
 <h1>FullStack Developer focused on results</h1>
 
-I'm a Full Stack programming student at Infinity School and studying Systems Analysis and Development at Una University. I'm passionate about technology and transforming ideas into real solutions through code.
+I am a Full Stack Development graduate from Infinity School and a Systems Analysis and Development student at Una University. I am passionate about technology and dedicated to transforming ideas into real-world solutions through code.
 
 ###
 
